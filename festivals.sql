@@ -59,22 +59,22 @@ CREATE TABLE `images` (
 --
 
 INSERT INTO `images` (`id`, `filename`) VALUES
-(1, 'assets/img/festival_01.png'),
-(2, 'assets/img/festival_02.png'),
-(3, 'assets/img/festival_03.png'),
-(4, 'assets/img/festival_04.png'),
-(5, 'assets/img/festival_05.png'),
-(6, 'assets/img/festival_06.png'),
-(7, 'assets/img/festival_07.png'),
-(8, 'assets/img/festival_08.png'),
-(9, 'assets/img/festival_09.png'),
-(10, 'assets/img/festival_10.png'),
-(11, 'assets/img/festival_11.png'),
-(12, 'assets/img/festival_12.png'),
-(13, 'assets/img/festival_13.png'),
-(14, 'assets/img/festival_14.png'),
-(15, 'assets/img/festival_15.png'),
-(16, 'assets/img/festival_16.png');
+(1, 'assets/img/festival_01.jpg'),
+(2, 'assets/img/festival_02.jpg'),
+(3, 'assets/img/festival_03.jpg'),
+(4, 'assets/img/festival_04.jpg'),
+(5, 'assets/img/festival_05.jpg'),
+(6, 'assets/img/festival_06.jpg'),
+(7, 'assets/img/festival_07.jpg'),
+(8, 'assets/img/festival_08.jpg'),
+(9, 'assets/img/festival_09.jpg'),
+(10, 'assets/img/festival_10.jpg'),
+(11, 'assets/img/festival_11.jpg'),
+(12, 'assets/img/festival_12.jpg'),
+(13, 'assets/img/festival_13.jpg'),
+(14, 'assets/img/festival_14.jpg'),
+(15, 'assets/img/festival_15.jpg'),
+(16, 'assets/img/festival_16.jpg');
 
 -- --------------------------------------------------------
 
